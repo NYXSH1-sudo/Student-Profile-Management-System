@@ -1,0 +1,7 @@
+U001,admin,Admin,User,admin@nyx.edu.np,9800000001,admin
+U002,seshank,Seshank,Sharma,seshank.sharma@nyx.edu.np,9708561930,student
+U003,rishi,Rishi,shah,rishi.shah@nyx.edu.np,9861490097,student
+U004,siddhant,Siddhant,Sah,siddhant.sah@nyx.edu.np,9817660704,student
+U005,subigya,Subigya,Ghimire,subigya.ghimire@nyx.edu.np,9840330549,student
+U006,NYX,Bikkey,Sharma,sheshanksharma61@gmail.com,9708561930,admin
+U007,rounak,rounak,khanal,rounak.khanak@nyx.edu.np,9826046980,admin
