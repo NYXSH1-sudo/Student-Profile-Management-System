@@ -4,7 +4,7 @@ Student Management System
 
 Default credentials:
   Admin   — username: admin,NYX      password: admin15,NYX15
-  Student — username: seshank.sharma password: ram15
+  Student — username: seshank.sharma password: seshank15
 """
 
 import sys
